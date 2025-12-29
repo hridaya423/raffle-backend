@@ -23,7 +23,7 @@
     "hardhat-deploy": "^1.0.4",
     "hardhat-gas-reporter": "^1.0.10",
     "prettier": "^3.7.4",
-    "prettier-plugin-solidity": "^2.2.0",
+    "prettier-plugin-solidity": "^2.2.1",
     "solhint": "^6.0.2",
     "solidity-coverage": "^0.8.17"
   },
