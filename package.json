@@ -33,7 +33,7 @@
     "@chainlink/token": "^1.1.0",
     "@openzeppelin/contracts": "^5.6.1",
     "babel-eslint": "^10.1.0",
-    "dotenv": "^17.3.1"
+    "dotenv": "^17.4.1"
   },
   "mocha": {
     "timeout": 10000000
